@@ -12,6 +12,7 @@ Strona stworzona w ramach projektu zaliczeniowego.
 
 ## 📑 Spis treści
 - [🛠️ Technologie](#️-technologie)
+- [🚀 Uruchomienie](#-Twórcy)
 - [🚀 Uruchomienie](#-uruchomienie)
 
 ---
@@ -20,6 +21,9 @@ Strona stworzona w ramach projektu zaliczeniowego.
 - HTML5
 ---
 
+## Twórcy
+- Jakub Pala
+---
 ## 🚀 Uruchomienie
 
 1. Sklonuj repozytorium:
